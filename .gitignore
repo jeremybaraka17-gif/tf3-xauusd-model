@@ -1,0 +1,7 @@
+﻿live/.env
+live/daemon_config.json
+live/daemon_state.json
+live/daemon_log.txt
+live/governor_state.json
+**/__pycache__/
+*.pyc

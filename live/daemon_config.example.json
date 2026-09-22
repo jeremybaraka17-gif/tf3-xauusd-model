@@ -1,0 +1,6 @@
+{
+  "_comment": "Copy this file to daemon_config.json (NOT this example file). This file holds non-secret settings only -- the Telegram bot token, chat ID, expected MT5 account login, and expected broker server string live in .env instead (copy .env.example to .env and fill those in there, not here).",
+  "mt5_symbol": "XAUUSD",
+  "min_bars_required": 400,
+  "stale_bar_max_age_days": 3
+}

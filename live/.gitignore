@@ -1,0 +1,6 @@
+# Secrets and machine-specific state -- never commit these.
+.env
+daemon_config.json
+daemon_state.json
+daemon_log.txt
+governor_state.json

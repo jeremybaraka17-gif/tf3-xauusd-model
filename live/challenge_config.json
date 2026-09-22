@@ -1,0 +1,11 @@
+{
+  "_comment": "TEMPLATE -- this file is replaced with a challenge-specific version (5k or 10k) in each packaged zip. See research/tf3_addendum_03_prop_challenge_montecarlo_5k_10k_gft.md for where effective_exposure_mult comes from.",
+  "account_equity": 10000.0,
+  "phases": [
+    {"name": "Step 1 (single phase)", "target": 0.10}
+  ],
+  "daily_loss_limit": 0.03,
+  "total_loss_limit": 0.06,
+  "min_trading_days": 3,
+  "effective_exposure_mult": 2.0
+}
