@@ -63,5 +63,6 @@ python3 tf3_xauusd_live.py --price-csv ../data/xauusd_D1.csv --held-position 0.0
 - Data-integrity and regime kill switches are specified qualitatively, not implemented.
 - No walk-forward re-validation cadence set.
 - Contract size (100 oz/lot) used in the live script's lot-sizing arithmetic is a standard-convention assumption, not confirmed against any specific broker.
+- Hit a wall on momentum; still...
 
 Full detail on every item above is in `research/tf3_addendum_02_missing_parameters_completeness_review.md`.
